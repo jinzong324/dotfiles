@@ -1,0 +1,6 @@
+[core]
+	autocrlf = false
+	safecrlf = true
+	ignorecase = false
+[commit]
+	gpgsign = true
